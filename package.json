@@ -1,0 +1,22 @@
+{
+  "name": "algorithms-and-data-structures",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sensetive5/algorithms-and-data-structures.git",
+  "author": "Alexander Sokolov <owngr@yandex-team.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.15.4",
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.4",
+    "@babel/preset-typescript": "^7.15.0",
+    "@types/jest": "^27.0.1",
+    "babel-jest": "^27.1.0",
+    "jest": "^27.1.0",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
