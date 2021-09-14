@@ -1,4 +1,4 @@
-import { maxSubarraySum, maxSubarraySum2 } from "."
+import { maxSubarraySum, maxSubarraySum2 } from "./index"
 
 describe('maxSubarraySum', () => {
     it('Should return max sum of count consecutive numbers', () => {

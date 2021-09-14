@@ -1,4 +1,4 @@
-import { areAnagrams } from "."
+import { areAnagrams } from "./index"
 
 describe('isAnagrams', () => {
     it('Should return true if two words are anagrams', () => {

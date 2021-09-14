@@ -1,4 +1,4 @@
-import { countUniqueValues } from "."
+import { countUniqueValues } from "./index"
 
 describe('countUniqueValues', () => {
     it('Should return 0 if input array is empty', () => {
