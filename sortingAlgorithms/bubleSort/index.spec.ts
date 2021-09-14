@@ -1,6 +1,6 @@
 import {bubbleSort} from "./index";
 
-describe('bubleSort', () => {
+describe('bubbleSort', () => {
     it('Should sort list of numbers ascending numeric order', () => {
         const expectedResult = bubbleSort([-1, 10, -10, 15, 4, 2, 3, 6, 115, 100, 95]);
 
